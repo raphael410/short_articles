@@ -1,2 +1,3 @@
-# short_articles
-All the articles I wrote from university
+# Short Acrticles
+
+Some of the articles I wrote from the University. 
